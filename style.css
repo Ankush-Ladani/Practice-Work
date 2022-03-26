@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding-top: 5rem;
+}
+.first{
+    width: 33%;
+    padding-right: 5rem;
+}
+.second{
+    width: 33%;
+    padding-right: 2rem;
+}
+.third{
+    width: 33%;
+    padding-left: 5rem;
+}
